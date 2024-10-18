@@ -16,7 +16,7 @@ body {
     width: 100%;
     height: 100%;
     z-index: -1; /* Ensures it stays behind all other content */
-    opacity: 0.5; /* Adjust visibility as desired */
+    opacity: 0.2; /* Adjust visibility as desired */
 }
 
 /* Content Wrapper */
